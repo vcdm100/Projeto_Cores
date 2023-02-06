@@ -1,0 +1,9 @@
+#texto{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
+    width: 20%;
+    height: auto;
+}
